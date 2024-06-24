@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves two main tasks: Emotion Recognition in Conversation (ERC) and Emotion Flip Reasoning (EFR). Each task requires training multiple models with different architectures, evaluating their performance, and providing detailed reports and deliverables.
+This project involves two main tasks: Emotion Recognition in Conversation (ERC) and Emotion Flip Reasoning (EFR). This project is along the lines of the paper [“Discovering Emotion and Reasoning its Flip in Multi-Party Conversations using Masked Memory Network and Transformer”](https://arxiv.org/pdf/2103.12360.pdf).
 
 ### Task 1: Emotion Recognition in Conversation (ERC)
 
