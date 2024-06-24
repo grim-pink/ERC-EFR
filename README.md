@@ -18,17 +18,7 @@ Emotion Flip Reasoning (EFR) aims to identify utterances within a dialogue that 
 
 ### For ERC:
 - **Accuracy**: Measures the proportion of correct predictions among the total number of cases.
-- **Macro-F1 Score**: Calculates the F1 score for each class and averages them. The formula for F1 score is:
-  \[
-  \text{F1} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  \]
-  Where Precision and Recall are given by:
-  \[
-  \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
-  \]
-  \[
-  \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
-  \]
+- **Macro-F1 Score**: Calculates the F1 score for each class and averages them.
 
 ### For EFR:
 - **Accuracy**: Measures the proportion of correct predictions among the total number of cases.
